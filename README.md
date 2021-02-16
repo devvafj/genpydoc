@@ -1,5 +1,5 @@
 # genpydoc
-Generate Numpydoc to all functions in your Python script.
+Generate Docstrings to all functions in your Python script.
 
 ## Usage
 1. Copy src/genpydoc.py file to your project.
