@@ -6,7 +6,8 @@ Generate Docstrings to all functions in your Python script.
 
 2. Open the command line tool (prompt, terminal).
 
-3. Execute: python genpydoc.py <path>/<file>.<ext> where:
+3. Execute: 
+```python genpydoc.py path/file.ext``` where:
    path: location of your script file
    file: name of the file
    ext: extension of the file
