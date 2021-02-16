@@ -54,6 +54,7 @@ def write_docs(path_to_file, doc):
         f.seek(0)
         for line in lines:
             f.write(line)
+    f.close()
 
 
 def run_script():
