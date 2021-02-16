@@ -11,5 +11,7 @@ Generate Numpydoc to all functions in your Python scripts
    file: name of the file
    ext: extension of the file
 
-E.g. python genpydoc.py c:/Users/MyUser/Documents/sample.py
+**E.g: python genpydoc.py c:/Users/MyUser/Documents/sample.py**
+   
+**Note: This is the v1.0, so if your function has already a Docstring, genpydoc will add another docstring above yours.**
 
