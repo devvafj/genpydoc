@@ -1,5 +1,5 @@
 # genpydoc
-Generate Docstrings to all functions in your Python script.
+A dummy script that generate Docstrings to all functions in your Python script.
 
 ## Usage
 1. Copy src/genpydoc.py file to your project.
